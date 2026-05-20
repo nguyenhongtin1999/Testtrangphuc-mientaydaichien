@@ -1,0 +1,16 @@
+[
+  {"id":"hair_river_wind_01","name":"River Wind Fade","category":"hair","rarity":"common","asset":"hair://river_wind_01","tags":["starter"]},
+  {"id":"hair_mekong_legend_01","name":"Mekong Legend Cut","category":"hair","rarity":"epic","asset":"hair://mekong_legend_01","tags":["season1"]},
+
+  {"id":"clothing_ao_ba_ba_01","name":"Áo Bà Ba Classic","category":"clothing","rarity":"common","asset":"cloth://ao_ba_ba_01","tags":["starter"]},
+  {"id":"clothing_festival_armor_01","name":"Festival Armor","category":"clothing","rarity":"rare","asset":"cloth://festival_armor_01","tags":["festival"]},
+
+  {"id":"hat_non_la_01","name":"Nón Lá","category":"hats","rarity":"uncommon","asset":"hat://non_la_01","tags":["iconic"]},
+  {"id":"hat_dragon_crown_01","name":"Dragon Crown","category":"hats","rarity":"legendary","asset":"hat://dragon_crown_01","tags":["event"]},
+
+  {"id":"pet_duckling_01","name":"Duckling Buddy","category":"pets","rarity":"common","asset":"pet://duckling_01","tags":["social"]},
+  {"id":"pet_fire_koi_01","name":"Fire Koi","category":"pets","rarity":"epic","asset":"pet://fire_koi_01","tags":["mythic"]},
+
+  {"id":"vehicle_sampan_01","name":"Sampan","category":"vehicles","rarity":"rare","asset":"vehicle://sampan_01","tags":["river"]},
+  {"id":"vehicle_hover_boat_01","name":"Hover Boat MK-I","category":"vehicles","rarity":"legendary","asset":"vehicle://hover_boat_01","tags":["future"]}
+]
