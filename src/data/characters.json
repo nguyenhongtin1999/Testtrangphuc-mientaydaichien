@@ -1,0 +1,4 @@
+[
+  {"id":"male","name":"Nam","modelPath":"/models/characters/MaleCharacter.glb"},
+  {"id":"female","name":"Nữ","modelPath":"/models/characters/FemaleCharacter.glb"}
+]
